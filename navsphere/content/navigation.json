@@ -1,6 +1,24 @@
 {
   "navigationItems": [
     {
+      "id": "1771657034381",
+      "title": "我的",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1771657043850",
+          "title": "LobeChat",
+          "href": "https://lobe.xxdn.dpdns.org",
+          "description": "G上的V优选IP",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lobe.xxdn.dpdns.org",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1544,24 +1562,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1771657034381",
-      "title": "我的",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1771657043850",
-          "title": "LobeChat",
-          "href": "https://lobe.xxdn.dpdns.org",
-          "description": "G上的V优选IP",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lobe.xxdn.dpdns.org",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
