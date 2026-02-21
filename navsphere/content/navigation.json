@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1771657034381",
+      "title": "我的",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
